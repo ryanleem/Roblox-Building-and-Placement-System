@@ -5,8 +5,6 @@ A focused Roblox/Luau building system extracted from a larger restaurant game pr
 The system allows players to equip a material, preview placement, rotate pieces, snap them to other materials, place slanted pieces on top of upright pieces, prevent invalid overlap, place only inside an owned plot, and pick placed planks back up.
 
 ## Features
-
-- Wooden-plank-only construction system
 - Client-side placement preview
 - Plot-local grid snapping
 - Face-to-face plank snapping
@@ -24,7 +22,7 @@ The system allows players to equip a material, preview placement, rotate pieces,
 
 | Control | Action |
 |---|---|
-| Left Click | Place selected wooden plank |
+| Left Click | Place selected material |
 | Right Click | Rotate yaw by 30° |
 | V | Rotate pitch by 30° |
 | F | Toggle horizontal / vertical mode |
