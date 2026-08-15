@@ -1,0 +1,11 @@
+# Roblox Studio / Rojo generated files
+*.rbxl.lock
+*.rbxlx.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
